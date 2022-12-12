@@ -1,5 +1,7 @@
 # FlappyBird-Game
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/79161056/206891828-28ffefd0-f92c-4f42-80c0-68153ae5d75f.gif)
 
-Simple Flappy Bird 2D game using C# and Unity where the player taps space keyboard key or mouse button to pass the pipes and earn points.
+![End](https://user-images.githubusercontent.com/79161056/206972832-1d847c06-2961-489a-93bc-9e0f3dc4cc18.png)
+
+
+Simple 2D Flappy Bird game using C# and Unity. The player can press space keyboard key or mouse button to pass through pipes successfully and earn points.
